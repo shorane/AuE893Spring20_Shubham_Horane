@@ -27,7 +27,4 @@
   <node pkg="assignment3_pkg" type="square_openloop.py" name="square" 
   if="$(eval code == 'square')"/>
 
-  <node pkg="assignment3_pkg" type="square_revised.py" name="square2" 
-  if="$(eval code == 'square2')"/>
-
 </launch>
