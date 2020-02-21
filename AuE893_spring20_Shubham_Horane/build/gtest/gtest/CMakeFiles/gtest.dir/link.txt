@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/gtest/gtest/src -lpthread -Wl,-rpath,/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/gtest/gtest/src 
