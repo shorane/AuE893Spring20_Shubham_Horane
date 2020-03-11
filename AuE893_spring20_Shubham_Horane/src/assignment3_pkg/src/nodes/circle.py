@@ -15,7 +15,7 @@ def move():
     speed = 0.5
     ang_vel = 0.5
     R = speed/ang_vel
-    distance = 2 * (pi) * R *15
+    distance = 2 * (pi) * R *1
 
 
 

@@ -129,6 +129,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment1_ws/cmake_install.cmake")
   include("/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment2_pkg/cmake_install.cmake")
   include("/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment3_pkg/cmake_install.cmake")
+  include("/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment4_obstacleavoidance/cmake_install.cmake")
 
 endif()
 

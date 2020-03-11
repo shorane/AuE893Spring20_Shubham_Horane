@@ -935,6 +935,24 @@ assignment3_pkg/preinstall:
 .PHONY : assignment3_pkg/preinstall
 
 #=============================================================================
+# Directory level rules for directory assignment4_obstacleavoidance
+
+# Convenience name for "all" pass in the directory.
+assignment4_obstacleavoidance/all:
+
+.PHONY : assignment4_obstacleavoidance/all
+
+# Convenience name for "clean" pass in the directory.
+assignment4_obstacleavoidance/clean:
+
+.PHONY : assignment4_obstacleavoidance/clean
+
+# Convenience name for "preinstall" pass in the directory.
+assignment4_obstacleavoidance/preinstall:
+
+.PHONY : assignment4_obstacleavoidance/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

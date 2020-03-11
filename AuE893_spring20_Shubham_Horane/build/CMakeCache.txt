@@ -286,6 +286,12 @@ assignment3_pkg_BINARY_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubha
 //Value Computed by CMake
 assignment3_pkg_SOURCE_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/src/assignment3_pkg
 
+//Value Computed by CMake
+assignment4_obstacleavoidance_BINARY_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment4_obstacleavoidance
+
+//Value Computed by CMake
+assignment4_obstacleavoidance_SOURCE_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 
@@ -467,7 +473,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP
