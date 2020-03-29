@@ -292,6 +292,12 @@ assignment4_obstacleavoidance_BINARY_DIR:STATIC=/home/shubham/git_space/AuE893_s
 //Value Computed by CMake
 assignment4_obstacleavoidance_SOURCE_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance
 
+//Value Computed by CMake
+assignment5_trackingandfollowing_BINARY_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment5_trackingandfollowing
+
+//Value Computed by CMake
+assignment5_trackingandfollowing_SOURCE_DIR:STATIC=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/kinetic/share/catkin/cmake
 
@@ -473,7 +479,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=7
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=8
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

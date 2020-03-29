@@ -953,6 +953,24 @@ assignment4_obstacleavoidance/preinstall:
 .PHONY : assignment4_obstacleavoidance/preinstall
 
 #=============================================================================
+# Directory level rules for directory assignment5_trackingandfollowing
+
+# Convenience name for "all" pass in the directory.
+assignment5_trackingandfollowing/all:
+
+.PHONY : assignment5_trackingandfollowing/all
+
+# Convenience name for "clean" pass in the directory.
+assignment5_trackingandfollowing/clean:
+
+.PHONY : assignment5_trackingandfollowing/clean
+
+# Convenience name for "preinstall" pass in the directory.
+assignment5_trackingandfollowing/preinstall:
+
+.PHONY : assignment5_trackingandfollowing/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

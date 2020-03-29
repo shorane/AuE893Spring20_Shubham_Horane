@@ -1,0 +1,8 @@
+prefix=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/devel
+
+Name: assignment5_trackingandfollowing
+Description: Description of assignment5_trackingandfollowing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
