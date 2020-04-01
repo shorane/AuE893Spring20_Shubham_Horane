@@ -127,7 +127,7 @@ $ rosrun image_transport republish compressed in:=raspicam_node/image raw out:=r
 
 $ roslaunch assignment5_trackingandfollowing 2_continuous_detection_and_bot_moving.launch 
 
-- Holding the apriltag with id 7 in front of the bot at a distance will result in the bot following the tag. The bot will stop at a distance of 0.3 meters from the tag if the tag is held in one place for long enough.
+- Holding the apriltag with id 7 in front of the bot at a distance will result in the bot following the tag. The bot will stop at a distance of 0.3 meters from the tag if the tag is held in one place for long enough. Due to camera lag, the detection faces minor issues at times.
 
 *** - The video named 'AuE893_Assignment_5_Part_2_AprilTagFollowing.mp4' in the videos folder shows this functionality.
 ----------------------------------------------------------------------------------------
