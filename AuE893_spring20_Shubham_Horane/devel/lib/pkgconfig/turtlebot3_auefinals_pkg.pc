@@ -1,0 +1,8 @@
+prefix=/home/shubham/git_space/AuE893_spring20_Shubham_Horane/devel
+
+Name: turtlebot3_auefinals_pkg
+Description: Description of turtlebot3_auefinals_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

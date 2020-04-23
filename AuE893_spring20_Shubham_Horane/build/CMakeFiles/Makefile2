@@ -971,6 +971,24 @@ assignment5_trackingandfollowing/preinstall:
 .PHONY : assignment5_trackingandfollowing/preinstall
 
 #=============================================================================
+# Directory level rules for directory turtlebot3_auefinals_pkg
+
+# Convenience name for "all" pass in the directory.
+turtlebot3_auefinals_pkg/all:
+
+.PHONY : turtlebot3_auefinals_pkg/all
+
+# Convenience name for "clean" pass in the directory.
+turtlebot3_auefinals_pkg/clean:
+
+.PHONY : turtlebot3_auefinals_pkg/clean
+
+# Convenience name for "preinstall" pass in the directory.
+turtlebot3_auefinals_pkg/preinstall:
+
+.PHONY : turtlebot3_auefinals_pkg/preinstall
+
+#=============================================================================
 # Special targets to cleanup operation of make.
 
 # Special rule to run CMake to check the build system integrity.

@@ -78,3 +78,10 @@
 /home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment5_trackingandfollowing/CMakeFiles/install/local.dir
 /home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment5_trackingandfollowing/CMakeFiles/test.dir
 /home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/assignment5_trackingandfollowing/CMakeFiles/edit_cache.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/list_install_components.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/install.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/rebuild_cache.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/install/strip.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/install/local.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/test.dir
+/home/shubham/git_space/AuE893_spring20_Shubham_Horane/build/turtlebot3_auefinals_pkg/CMakeFiles/edit_cache.dir
