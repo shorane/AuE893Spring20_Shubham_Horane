@@ -31,8 +31,5 @@ Each package contains its own README.md file which has detailed description of i
 ## Gazebo: AUE FINALS!
 
 <figure class="video_container">
-  <video controls="true" allowfullscreen="true">
-    <source src="https://github.com/shorane/AuE893Spring20_Shubham_Horane/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/final_proj_backup_2.mp4" type="video/mp4">
-  </video>
+  <iframe src="https://github.com/shorane/AuE893Spring20_Shubham_Horane/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/final_proj_backup_2.mp4" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-
