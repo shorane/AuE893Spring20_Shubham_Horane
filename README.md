@@ -5,6 +5,8 @@ Each package contains its own README.md file which has detailed description of i
 
 [![Watch the video]((https://img.youtube.com/vi/Dy0TMgzS2A0/maxresdefault.jpg)](https://youtu.be/Dy0TMgzS2A0))
 
+[![Alt text for your video](https://img.youtube.com/vi/Dy0TMgzS2A0/0.jpg)](http://www.youtube.com/watch?v=Dy0TMgzS2A0)
+
 https://www.youtube.com/playlist?list=PLmd0PUITvcObZ9FKlgNsXS9QySAe4zX3U
 
 https://youtu.be/Dy0TMgzS2A0
