@@ -4,7 +4,7 @@ This workspace is updated and maintaned by:
 
 NAME: SHUBHAM HORANE
 
-GITHUB USERID: ![shorane](https://github.com/shorane)
+GITHUB USERID: [shorane](https://github.com/shorane)
 
 The catkin_ws directory contains several packages in its src folder. The packages having the naming convention like "Assignment_2" are packages for submissions pertaining to the course AuE 893 Spring 2020.
 
