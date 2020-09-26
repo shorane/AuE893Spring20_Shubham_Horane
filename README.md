@@ -30,7 +30,7 @@ This repository contains ROS-development files prepared as a part of assignment 
 ## TurtleBot Implementations: 
 
 Obstacle avoiding wanderer |  Apriltag tracking  | Line-follower
-:-------------------------:|:-------------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
 ### Obstacle avoiding wanderer: 
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" /> 
