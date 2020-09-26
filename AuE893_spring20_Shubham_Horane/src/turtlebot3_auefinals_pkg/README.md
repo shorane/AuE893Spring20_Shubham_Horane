@@ -15,7 +15,7 @@ The python script files can be found in the [nodes](https://github.com/shorane/R
 
 Camera is not available by default in the TurtleBot burger model defined in Gazebo. The process to add camera to this model has been outlined [here](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing)
 
-### This assignment package has one launch file for all required tasks:
+### Description: 
 
 filename: "final_launch.launch"
 
@@ -37,6 +37,7 @@ NOTE: This componenet of the launch file has been commented to allow for the wor
 
 7. hector slam navigation package (arg value can be changed to run the other packages if they are installed in your system)
 
+### Running Instructions: 
 The command for executing the above launch file is:
 ```
 $ roslaunch turtlebot3_auefinals_pkg final_launch.launch 
