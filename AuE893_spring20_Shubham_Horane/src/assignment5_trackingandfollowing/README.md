@@ -1,5 +1,9 @@
 ## ASSIGNMENT 5: Line-following and object tracking
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" /> |  <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />
+
 NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing) folder to the src folder of your workspace and run the below command in the package directory.
 ```
 catkin_make
