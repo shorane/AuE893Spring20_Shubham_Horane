@@ -35,6 +35,8 @@ $ roslaunch assignment4_obstacleavoidance turtlebot3_obstaceavoidance.launch
 
 **3. turtlebot3_obstaceavoidance.launch   (same file as part 2)**
 
+NOTE: for this implementation, you must already be connected to a turtlebot via ssh, and any teleop operations shold be turned off before running the files of this package. The setup instructions for the turtlebot robot can be found [here](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
+
 - The python code wander.py used in part 2 was applied on the turtlebot burger and rested with the help of some boxes places as obstacles in the path of the robot.
 - The video named 'Wanderer_RealScenario' in the videos folder shows this functionality.
 - The command for execution of this launch file is:
