@@ -1,5 +1,4 @@
---------------------------------------------------------------------------------------
-			ASSIGNMENT 3: GROUP 6
+			ASSIGNMENT 3: TurtleBot basic movement in Gazebo
 --------------------------------------------------------------------------------------
 NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment2_pkg) folder to the src folder of your workspace and run the below command in the package directory.
 ```
@@ -13,11 +12,10 @@ The [launch](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE
 The [nodes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/src/nodes) folder contains the scripts
 
 The [worlds](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/src/worlds) folder contains the gazebo world files.
----------------------------------------------------------------------------------------
 
 This assignment package has two launch files: (One for each part)
 
-1. move.launch
+**1. move.launch**
 
 - This file initializes an empty world in gazebo
 - It launches nodes for moving the robot in a circlular or square motion depending on the argument provided while executing the launch command.
@@ -25,16 +23,16 @@ This assignment package has two launch files: (One for each part)
 ```
 $ roslaunch assignment3_pkg move.launch code:=circle
 ```
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-1-circl.gif" height="400 />
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-1-circl.gif" height="400" />
 
 - The command for execution with open loop square motion is: 
 ```
 $ roslaunch assignment3_pkg move.launch code:=square
 ```
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-1-squar.gif" height="400 />
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-1-squar.gif" height="400" />
 ----------------------------------------------------------------------------------------
 
-2. turtlebot3_wall.launch
+**2. turtlebot3_wall.launch**
 
 - This file initializes a world based on the empty world environment.
 
@@ -46,7 +44,7 @@ $ roslaunch assignment3_pkg move.launch code:=square
 ```
 $ roslaunch assignment3_pkg turtlebot3_wall.launch
 ```
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-2-scann.gif" height="400 />
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-2-scann.gif" height="400" />
 ----------------------------------------------------------------------------------------
 
 Work was divided between two sub-groups within our team:
