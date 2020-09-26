@@ -6,16 +6,27 @@ This repository contains ROS-development files prepared as a part of assignment 
 
 ## Contents:
 1. TurtleBot Implementations
-  [a. Obstacle-avoidance wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
-  [b. Line follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
-  [c. Apriltag tracker](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing)
+
+&nbsp;&nbsp;&nbsp;[a. Obstacle-avoidance wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+  
+&nbsp;&nbsp;&nbsp;[b. Line follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+  
+&nbsp;&nbsp;&nbsp;[c. Apriltag tracker](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing)
+  
 2. Gazebo/Rviz Implementations
-  a. Finite-State machine implementation for autonomous module switching
-  b. Gazebo wanderer
-  c. Gazebo wall follower
-  d. Basic movement in Gazebo
+
+&nbsp;&nbsp;&nbsp;[a. Finite-State machine implementation for autonomous module switching](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg)
+
+&nbsp;&nbsp;&nbsp;[b. Gazebo wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+
+&nbsp;&nbsp;&nbsp;[c. Gazebo wall follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+
+&nbsp;&nbsp;&nbsp;[d. Basic movement in Gazebo](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg)
+
 3. Turtlesim Implementations
-  a. Turtlesim shapes
+
+&nbsp;&nbsp;&nbsp;[a. Turtlesim shapes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment2_pkg)
+
 ## TurtleBot Implementations: 
 
 ### Obstacle avoiding wanderer: 
