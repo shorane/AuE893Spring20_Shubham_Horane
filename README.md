@@ -18,9 +18,9 @@ Each package contains its own README.md file which has detailed description of i
 ### Obstacle avoiding wanderer: 
 
 ### Line-follower: 
-
+[line_follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif)
 ### Apriltag tracking:
-[apriltag](https://drive.google.com/file/d/1YrdOPm0kyg2UJxV_qAWxh6DXetC9J4G1/view?usp=sharing)
+
 ## Simulations in Gazebo and Rviz:
 
 ### Finite-state machine implementation for autonomous module switching: 
