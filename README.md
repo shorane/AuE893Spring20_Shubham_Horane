@@ -25,7 +25,7 @@ This repository contains ROS-development files prepared as a part of assignment 
 
 **3. Turtlesim Implementations**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[a. Turtlesim shapes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment2_pkg)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[a. Turtlesim basics](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment2_pkg)
 
 ## TurtleBot Implementations: 
 
