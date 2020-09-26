@@ -1,4 +1,4 @@
-# Self-driving package developement on a ROS-based TurtleBot Burger robot:
+## Self-driving package developement on a ROS-based TurtleBot Burger robot:
 This repository contains ROS-development files prepared as a part of assignment submissions pertaining to AuE893_Spring2020 at Clemson University
 - All packages were developed on an Ubuntu 16.04 machine runnning ROS Kinetic.
 - The file structure of this repository is similar to a ROS-Kinetic file system.
@@ -32,14 +32,6 @@ This repository contains ROS-development files prepared as a part of assignment 
 Obstacle avoiding wanderer |  Apriltag tracking  | Line-follower
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />  | <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
-### Obstacle avoiding wanderer: 
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" /> 
-
-### Line-follower: 
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
-
-### Apriltag tracking:
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />
 
 ## Simulations in Gazebo and Rviz:
 
