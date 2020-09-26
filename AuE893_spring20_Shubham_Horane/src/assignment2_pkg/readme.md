@@ -1,11 +1,3 @@
-## Turtlesim basics
-
-The catkin_ws directory contains several packages in its src folder. The packages having the naming convention like "Assignment_2" are packages for submissions pertaining to the course AuE 893 Spring 2020.
-
-A general convention followed is that python scripts will be stored in the "scripts" folder and cpp files will be stored in the "src" folders of each package.
-
-This workspace contains several packages
-_____________________________________________________
 -----------------------------------------------------
 Assignment 2: Turtlesim basics
 -----------------------------------------------------
