@@ -20,7 +20,6 @@ Each package contains its own README.md file which has detailed description of i
 ### Line-follower: 
 
 ### Apriltag tracking:
-![apriltag](https://github.com/shorane/ROS_ADAS/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/AuE893_Assignment_5_Part_3_AprilTagFollowing.mp4)
 
 ## Simulations in Gazebo and Rviz:
 
