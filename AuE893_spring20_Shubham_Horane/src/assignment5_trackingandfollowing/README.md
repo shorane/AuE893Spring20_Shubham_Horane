@@ -11,7 +11,6 @@ The launch files can be found in the [launch](https://github.com/shorane/ROS_Aut
 
 The python script files can be found in the [nodes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/nodes) folder
 
---------------------------------------------------------------------------------------
 ### NOTE: CAMERA ADDITION TO TURTLEBOT3 BURGER IN GAZEBO
 
 For the simulation part of this assignemnt in gazebo, the turtlebot3 burger model was used in keeping with the trend of using the actual model provided to the group for real life implementation. Hence, the camera configuration settings were added to the burger model .xacro files in the below path (where catkin_ws is the name of the workspace where the relevatn turtlebot3 packages are installed):
@@ -41,9 +40,9 @@ $ rosrun camera_calibration cameracalibrator.py --size 8x6 --square 0.0245 image
 ```
 (the square side dimension (0.0245) was obtained after printing the calibration checkerboard on an A4 sheet. This sheet was used for calibrating the camera. Instructions were followed as per instructions on [this page](http://wiki.ros.org/camera_calibration))
 
-**This assignment package has three launch files: (for parts 1a, 1b and 2):**
+### This assignment package has three launch files: (for parts 1a, 1b and 2):
 
-**1a. filename: "1a_follow_line.launch"**
+### 1a. filename: "1a_follow_line.launch"
 
 - This file initializes the line following world in gazebo
 - It launches the line follower python script as a node for detecting and following the yellow path in the given simulation world in gazebo
@@ -53,7 +52,7 @@ $ roslaunch assignment5_trackingandfollowing 1a_follow_line.launch
 ```
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/AuE893-Assignment-5-Part-1a-Line.gif" height="400" />
 
-**1b. filename: "1b_follow_line.launch"**
+### 1b. filename: "1b_follow_line.launch"
 
 - This part shows the practical implementation of the line following functionality shown in the above part
 - This requires setting up a turtlebot3 burger robot with a raspberry pi camera v2 
@@ -78,7 +77,7 @@ $ roslaunch assignment5_trackingandfollowing 1b_follow_line.launch
 - The final launch file starts the line following node that allows the bot to follow white lines in a moderately lit environment.
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
 
-**3."2_continuous_detection_and_bot_moving.launch"**
+### "2_continuous_detection_and_bot_moving.launch"
 
 - This part enables the turtlebot3 burger to detect and follow a defined Apriltag code around a room.
 - For this assignment, only 1 tag was required to accomplish the requirements, hence tag id 7 was used.
