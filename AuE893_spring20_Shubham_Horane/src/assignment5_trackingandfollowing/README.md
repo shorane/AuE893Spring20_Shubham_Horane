@@ -1,6 +1,6 @@
-## ASSIGNMENT 5: Line-following and object tracking
+## ASSIGNMENT 5: Line-following and Object Tracking
 
-Solarized dark             |  Solarized Ocean
+Line Followng             |  Object Tracking
 :-------------------------:|:-------------------------:
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" /> |  <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />
 
