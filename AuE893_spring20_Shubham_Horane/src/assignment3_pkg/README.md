@@ -11,7 +11,7 @@ Group members:
 --------------------------------------------------------------------------------------
 Three videos describing each task of this assignment can be found in the following path:
 
-/src/assignment3_pkg/videos
+[here](/src/assignment3_pkg/videos)
 
 The launch files can be found in the path: /src/assignment3_pkg/src/launch
 
