@@ -45,29 +45,6 @@ $ roslaunch assignment3_pkg turtlebot3_wall.launch
 ```
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment3_pkg/videos/AuE893-Assignment-3-Part-2-scann.gif" height="400" />
 
-### Work division:
-
-Work was divided between two sub-groups within our team:
-Group members: 
-
-1. Shubham Horane
-2. Rahil Modi
-3. Manikanda Balaji
-4. Chase Gurcan
-5. Akshay Hole
-
-sub-group #1: Shubham Horane & Chase Gurcan.
-
-- Writing python script for circle and square motion
-- Preparing launch file with argument functionality for executing desired file.
-
-sub-group #2: Rahil Modi, Manikanda Balaji, & Akshay Hole.
-
-- Writing python script for object detection and response
-- Preparing new world in Gazebo with a wall-like obstacle
-- Preparing launch file for opening the world and executing the python script
-
-
 
 
 
