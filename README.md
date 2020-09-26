@@ -1,18 +1,13 @@
 # Self-driving package developement on a ROS-based TurtleBot Burger robot:
 This repository contains ROS-development files prepared as a part of assignment submissions pertaining to AuE893_Spring2020 at Clemson University
-All packages were developed on an Ubuntu 16.04 machine runnning ROS Kinetic.
-The file structure of this repository is similar to a ROS-Kinetic file system:<br />
-'''
-workspace_folder    <br />
-  src               <br />
-    package_name    <br />
-      launch        <br />
-      nodes         <br />
-      videos        <br />
-      other_support_folders     <br />
- '''   
+- All packages were developed on an Ubuntu 16.04 machine runnning ROS Kinetic.
+- The file structure of this repository is similar to a ROS-Kinetic file system.
+- Each package contains its own README.md file which has detailed description of its functionality and the commands used to run these packages.
 
-Each package contains its own README.md file which has detailed description of its functionality and the commands used to run these packages.
+## Contents:
+1. TurtleBot Implementations
+2. Gazebo/Rviz Implementations
+3. Turtlesim Implementations
 
 ## TurtleBot Implementations: 
 
