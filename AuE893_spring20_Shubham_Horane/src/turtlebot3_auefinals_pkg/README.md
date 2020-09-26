@@ -1,13 +1,11 @@
 ## ASSIGNMENT 6: Finite-State Machine implementation for autonomous module switching
 
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/Media1.gif" height="400" />
+
 NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg) folder to the src folder of your workspace and run the below command in the package directory.
 ```
 catkin_make
 ```
-
-Three videos describing each task of this assignment can be found in the following path:
-/src/turtlebot3_auefinals_pkg/videos
-
 The launch files can be found in the [launch](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/launch) folder
 
 The python script files can be found in the [nodes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/nodes) folder.
@@ -21,7 +19,7 @@ Camera is not available by default in the TurtleBot burger model defined in Gaze
 
 filename: "final_launch.launch"
 
-- This file initializes the following nodes:
+This file initializes the following nodes:
 
 1. The auefinal world
 
@@ -39,16 +37,15 @@ NOTE: This componenet of the launch file has been commented to allow for the wor
 
 7. hector slam navigation package (arg value can be changed to run the other packages if they are installed in your system)
 
-
-- The command for executing the above launch file is:
+The command for executing the above launch file is:
 ```
 $ roslaunch turtlebot3_auefinals_pkg final_launch.launch 
 ```
-- The command to run the integrated node is : 
+The command to run the integrated node is : 
 ```
 $ rosrun turtlebot3_auefinals_pkg aue_final.py 
 ```
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/Media1.gif" height="400" />
+
 
 
 
