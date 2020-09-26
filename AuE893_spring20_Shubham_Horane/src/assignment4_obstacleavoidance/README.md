@@ -1,5 +1,7 @@
 ## ASSIGNMENT 4: Wall Following and Obstacle Avoidance
 
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />
+
 NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance) folder to the src folder of your workspace and run the below command in the package directory.
 ```
 $ catkin_make
@@ -9,9 +11,9 @@ The launch files can be found in the [launch](https://github.com/shorane/ROS_Aut
 
 The python script files can be found in the [nodes](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/src/nodes) folder
 
-This assignment package has three launch files:
+### Description and Running Instructions: 
 
-**1. turtlebot3_wallfollowing.launch**
+### 1. turtlebot3_wallfollowing.launch
 
 - This file initializes the wall_following world in gazebo
 - It launches the wall_follower.py file as a node for moving the turtlebot between the two walls and avoiding any collisions with these walls
@@ -21,7 +23,7 @@ $ roslaunch assignment4_obstacleavoidance turtlebot3_wallfollowing.launch
 ```
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Wall-Gazebo.gif" height="400" />
 
-**2. turtlebot3_obstaceavoidance.launch**
+### 2. turtlebot3_obstaceavoidance.launch
 
 - This file initializes the obstacle_avoidance world.
 - This world has several obstacles that the turtlebot must avoid
@@ -33,7 +35,7 @@ $ roslaunch assignment4_obstacleavoidance turtlebot3_obstaceavoidance.launch
 ```
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Gazebo-wanderer.gif" height="400" />
 
-**3. turtlebot3_obstaceavoidance.launch   (same file as part 2)**
+### 3. turtlebot3_obstaceavoidance.launch  (same file as part 2)
 
 NOTE: for this implementation, you must already be connected to a turtlebot via ssh, and any teleop operations shold be turned off before running the files of this package. The setup instructions for the turtlebot robot can be found [here](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
 
