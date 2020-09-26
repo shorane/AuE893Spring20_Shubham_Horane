@@ -1,4 +1,4 @@
-# ADAS package developement on a ROS-based TurtleBot Burger robot:
+# Self-driving package developement on a ROS-based TurtleBot Burger robot:
 This repository contains ROS-development files prepared as a part of assignment submissions pertaining to AuE893_Spring2020 at Clemson University
 All packages were developed on an Ubuntu 16.04 machine runnning ROS Kinetic.
 The file structure of this repository is similar to a ROS-Kinetic file system:<br />
