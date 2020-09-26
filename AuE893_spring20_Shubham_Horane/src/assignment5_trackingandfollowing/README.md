@@ -1,4 +1,4 @@
-## ASSIGNMENT 5: GROUP 6
+## ASSIGNMENT 5: Line-following and object tracking
 
 NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing) folder to the src folder of your workspace and run the below command in the package directory.
 ```
