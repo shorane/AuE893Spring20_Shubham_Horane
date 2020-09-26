@@ -18,7 +18,7 @@ Each package contains its own README.md file which has detailed description of i
 ### Obstacle avoiding wanderer: 
 
 ### Line-follower: 
-[line_follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif)
+![line_follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif)
 ### Apriltag tracking:
 
 ## Simulations in Gazebo and Rviz:
