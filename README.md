@@ -16,26 +16,24 @@ Each package contains its own README.md file which has detailed description of i
 ## TurtleBot Implementations: 
 
 ### Obstacle avoiding wanderer: 
-![tb-wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif)
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />
 
 ### Line-follower: 
-![line_follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif)
-
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
 
 ### Apriltag tracking:
-![apriltag-tracking](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif)
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB_apriltag.gif" height="400" />
 
 ## Simulations in Gazebo and Rviz:
 
 ### Finite-state machine implementation for autonomous module switching: 
-![gazebo-FSM](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/Media1.gif)
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/turtlebot3_auefinals_pkg/videos/Media1.gif" height="400" />
 
 ### Gazebo Wanderer: 
-![Gazebo-wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Gazebo-wanderer.gif)
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Gazebo-wanderer.gif" height="400" />
 
 ### Gazebo Wall Follower: 
-![wall-follower-gazebo](https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Wall-Gazebo.gif)
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/Wall-Gazebo.gif" height="400" />
 
 The following is a playlist of videos of all implementations of this repository: 
 [Youtube Playlist of all Implementations](http://www.youtube.com/watch?v=Knvnb4CIv_g&list=PLmd0PUITvcObZ9FKlgNsXS9QySAe4zX3U)
