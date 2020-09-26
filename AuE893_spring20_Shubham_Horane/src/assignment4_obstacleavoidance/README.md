@@ -1,6 +1,6 @@
-## ASSIGNMENT 4: GROUP 6
+## ASSIGNMENT 4: Wall Following and Obstacle Avoidance
 
-NOTE: TO add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance) folder to the src folder of your workspace and run the below command in the package directory.
+NOTE: To add this package to your own workspace, copy [this](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance) folder to the src folder of your workspace and run the below command in the package directory.
 ```
 $ catkin_make
 ```
