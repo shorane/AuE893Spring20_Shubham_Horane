@@ -6,13 +6,20 @@ This repository contains ROS-development files prepared as a part of assignment 
 
 ## Contents:
 1. TurtleBot Implementations
+  [a. Obstacle-avoidance wanderer](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+  [b. Line follower](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance)
+  [c. Apriltag tracker](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing)
 2. Gazebo/Rviz Implementations
+  a. Finite-State machine implementation for autonomous module switching
+  b. Gazebo wanderer
+  c. Gazebo wall follower
+  d. Basic movement in Gazebo
 3. Turtlesim Implementations
-
+  a. Turtlesim shapes
 ## TurtleBot Implementations: 
 
 ### Obstacle avoiding wanderer: 
-<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" />
+<img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment4_obstacleavoidance/videos/TB_wanderer.gif" height="400" /> 
 
 ### Line-follower: 
 <img src="https://github.com/shorane/ROS_Autonomous_TurtleBot/blob/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/videos/TB-line-follower.gif" height="400" />
