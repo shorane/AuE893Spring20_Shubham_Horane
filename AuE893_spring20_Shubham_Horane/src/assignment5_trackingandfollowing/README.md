@@ -40,7 +40,7 @@ $ rosrun camera_calibration cameracalibrator.py --size 8x6 --square 0.0245 image
 ```
 (the square side dimension (0.0245) was obtained after printing the calibration checkerboard on an A4 sheet. This sheet was used for calibrating the camera. Instructions were followed as per instructions on [this page](http://wiki.ros.org/camera_calibration))
 
-### This assignment package has three launch files: (for parts 1a, 1b and 2):
+### Description and Running Instructions: 
 
 ### 1a. filename: "1a_follow_line.launch"
 
