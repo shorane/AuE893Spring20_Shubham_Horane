@@ -82,10 +82,11 @@ $ roslaunch assignment5_trackingandfollowing 1b_follow_line.launch
 - This part enables the turtlebot3 burger to detect and follow a defined Apriltag code around a room.
 - For this assignment, only 1 tag was required to accomplish the requirements, hence tag id 7 was used.
 - This task required the installation of the relevant apriltag packages in the catkin workspace. These packages can be found in the following github pages:
-```
+
 [https://github.com/AprilRobotics/apriltag_ros](https://github.com/AprilRobotics/apriltag_ros)
+
 [https://github.com/AprilRobotics/apriltag](https://github.com/AprilRobotics/apriltag)
-```
+
 (instructions for installing each package are mentioned in the corresponding Readme.md files on the github pages and were followed. Both packages were successfully installed)
 
 - The tags.yaml file present in the [config](https://github.com/shorane/ROS_Autonomous_TurtleBot/tree/master/AuE893_spring20_Shubham_Horane/src/assignment5_trackingandfollowing/config) folder contains the decription of the tag with id no.7. This file is must be placed in the path ```/apriltag_ros/config``` where the apriltag_ros package is installed in your corresponding workspace.
